@@ -1,0 +1,20 @@
+body {  
+    background-image: url("../images/background4.jpg");
+}
+
+.gif{
+    border: 3px solid black;
+}
+.main {
+    margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  font-family: cursive;
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: large;
+  
+}
+
+
